@@ -38,3 +38,11 @@ World Bank Open Data
 - Lagged variables improved prediction performance in developing countries
 - Consumption behavior differed between developed and developing economies
 - K-means clustering successfully separated countries into two economic groups
+
+## K-means Clustering
+
+![K-means Clustering](figures/K-means.png)
+
+## Lag2 Model
+
+![Lag2 Model](figures/Lag2_model.png)
