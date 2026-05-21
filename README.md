@@ -46,3 +46,7 @@ World Bank Open Data
 ## Lag2 Model
 
 ![Lag2 Model](figures/Lag2_model.png)
+
+## Presentation
+
+[View Presentation](presentation/Eaint_DataCapstone.pdf)
